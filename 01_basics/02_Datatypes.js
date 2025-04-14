@@ -1,7 +1,7 @@
 "use strict"; //treat all js code as newer version
 //alert (3+3) // we are using nodejs, not browser 
 console.log(3+
-    3);// 
+    3);// //not good approach
 
 // Primitive Datatypes
 //number=>2 to power 53 certain amount of number are avilable in memory after that we use Bigint
