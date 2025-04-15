@@ -7,7 +7,7 @@ console.log(typeof valueInNumber);
 console.log(valueInNumber);
 
 //"33"=>33 vhange in number
-//"33abc" => NaN (not a number )
+//"33abc" => NaN (not a number ) 
 // true=>1; false=>0
 
 //let isLoggedIn=1
@@ -19,3 +19,7 @@ console.log(booleanIsLoggedIn)
 // when we changed empty value ""=>false
 // when we changed string "hitesh"=> true
 
+let str1="ayush"
+let str2="pria"
+let str3=str1+str2
+console.log(str3);
