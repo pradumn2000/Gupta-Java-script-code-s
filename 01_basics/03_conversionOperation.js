@@ -23,3 +23,17 @@ let str1="ayush"
 let str2="pria"
 let str3=str1+str2
 console.log(str3);
+
+let IsloggedIn =0
+let booleanIsloggedIn=Boolean(IsloggedIn)
+//console.log(booleanIsloggedIn);
+
+// 1=> true; 0=> false 
+//" " =. false 
+//"hitesh"=> true
+let someNumber =33
+let stringNumber =String(someNumber)
+console.log(stringNumber);
+console.log(typeof stringNumber)
+
+
